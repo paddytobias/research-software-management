@@ -1,29 +1,26 @@
----?image=assets/image/jeremy-bishop.jpg
+---?image=assets/image/kyle-gregory-devaras.jpg
 
-# Space
 
-### A GitPitch Presentation Template
+# Software Management in Research
+
+### Dr Paddy Tobias, eResearch Analyst, Intersect Australia
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Tips!
+## Software in Research
 
-<br>
+- Increasing support for research data
+- Still little support for research software
+- But software management tools on the rise in research
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+[[Insert Growing influence of github diagram:https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g25577f6de1_0_20]]
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## Software in Research
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+<iframe class = "stretch" data-src="https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g263136810c_0_0"></iframe>
+
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
