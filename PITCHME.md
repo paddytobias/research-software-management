@@ -18,8 +18,7 @@
 +++
 
 
-
-<iframe class = "stretch" data-src="https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g263136810c_0_0"></iframe>
+[[ insert diagram "https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g263136810c_0_0"]]
 
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
