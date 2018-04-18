@@ -23,15 +23,39 @@
 ---?image=assets/image/kyle-gregory-devaras.jpg
 ## Software management
 
+- Version control
+- Collaborations
+- Documentation (README)
+- Licensing
+
 +++ 
 
 ### Git and gitlab.une.edu.au
 
 <iframe class="stretch" data-src="https://gitlab.une.edu.au/"></iframe>
 
++++
+### Alternative code repositories
+- BitBucket
+- GitHub
+- SourceForge
+
+[More options here:](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
+
 ---?image=assets/image/kyle-gregory-devaras.jpg
 ## Software citation
 
 +++
 
----
+### Zenodo and minting DOI
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+## Benefits
+- Research Impact and Engagement: who are your end users?
+
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+## Where to next?
+
+Come to the class next week: 9.30-12.30, 8th May
