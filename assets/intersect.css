@@ -71,7 +71,7 @@ body {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  vertical-align: top;
+  top:10px;
   text-align: left;
   text-transform: none;
   text-shadow: none;
