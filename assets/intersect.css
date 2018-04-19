@@ -71,7 +71,6 @@ body {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  top:0px;
   text-align: left;
   text-transform: none;
   text-shadow: none;
@@ -139,7 +138,7 @@ body {
 .reveal ol ol,
 .reveal ol ul {
   display: block;
-  margin-left: 40px; }
+ }
 
 .reveal dt {
   font-weight: bold; }
