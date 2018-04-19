@@ -160,7 +160,7 @@ else if <<publishing your code>>:
 ---
 ### Reproducible research
 
-![Code ocean](assets/image/code_ocean_CUP)
+![Code ocean](assets/image/code_ocean_CUP.png)
 
 ---
 
