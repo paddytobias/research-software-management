@@ -61,9 +61,9 @@ Things to consider:
 
 ### Git, GitHub, GitLab, Git-everything...
 
-![Git](assets/image/git_logo.jpg)
-![GitHub](assets/image/github_logo2.png)
-![GitLab](assets/image/gitlab_logo.png)
+![Git](assets/image/git_logo.jpg =50x)
+![GitHub](assets/image/github_logo2.png =50x)
+![GitLab](assets/image/gitlab_logo.png =50x)
 
 [More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
