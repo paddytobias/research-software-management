@@ -142,7 +142,7 @@ else if <<publishing your code>>:
 ```
 +++
 ### Software Citation Principles
-<img src="assets/image/force11_logo.png" alt="Force11" style="width: 300px;"/>
+<img src="assets/image/force11_logo.png" alt="Force11" style="width: 300px;" align="right"/>
 
 1. legitimate and citable research product
 2. gives scholarly credit
