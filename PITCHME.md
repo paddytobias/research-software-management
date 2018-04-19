@@ -17,6 +17,16 @@ Intersect Australia
 - Still little support for research software code
 - But software management tools on the rise in research
 
+
+---
+## Why manage your code?
+
+- Improving your workflow |
+- Coordinating group research |
+- Scientific reproducibility |
+- External engagement |
+- Co-authorship opportunities |
+
 +++
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
@@ -38,15 +48,6 @@ Intersect Australia
 
 [Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")
 
----
-## Software management: Why?
-
-- Improving your workflow |
-- Coordinating group research |
-- Scientific reproducibility |
-- External engagement |
-- Co-authorship opportunities |
-
 +++ 
 
 Things to consider:
@@ -57,7 +58,10 @@ Things to consider:
 - Issues register |
 - Licensing |
 
-+++ 
+---
+
+## How to manage your code?
+
 
 ### Git, GitHub, GitLab, Git-everything...
 
@@ -74,21 +78,20 @@ Alternative code repositories:
 - BitBucket
 - SourceForge
 
----
++++
 
-## Software management: How?
 ```
-if *coding by yourself*:
+if <<coding by/for yourself>>:
     then ...
 ```
 +++
 
 ### Writing your code
-- If adapting code from someone else, don't! Write you're own and copy/paste the chunks you want
-- Have a plan for your code before you start writing. What do you want it to do?
-- Draw your plans... before you write your code
-- Where to start? What are your **inputs** and **outputs**?
-- Comment your code
+- If adapting code from someone else, don't! Write you're own and copy/paste the chunks you want |
+- Have a plan for your code before you start writing. What do you want it to do? |
+- Draw your plans... before you write your code |
+- Where to start? What are your **inputs** and **outputs**? |
+- Add comments to your code |
 
 Note: 
 * there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
@@ -97,20 +100,30 @@ Note:
 
 +++
 ### Version control
-- Make regular commits 
-- Meaningfully describe major commits, not every commit
-- Git repos make this easy to do. Add >> Commit >> Push
+- Set version control up as the first thing you do |
+- Make regular commits |
+- Meaningfully describe major commits, not every commit |
+- Most repos have a three step process. Add >> Commit >> Push |
 
++++
+
+![staging](assets/image/git-staging-area.svg]
+[Software Carpentary]("https://swcarpentry.github.io/git-novice/04-changes/)
 ---
 
-## Software management: How?
+
+
 ```
-else if *collaborating with others*:
+else if <<collaborating with others>>:
     then ...
 ```
+
 +++
 ### Managing contributions
-
+Git has many ways to manage contributions:
+- only owners can make changes, but everyone else can recommend changes. i.e., `Pull request` 
+- each change is identified and marked with a unique id, meaning that you can rollback to previous versions
+- repos can be `forked` and `merged`
 
 
 +++ 
