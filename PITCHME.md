@@ -1,13 +1,18 @@
 @title[Introduction]
 
 
-# Managing source code in Research
+# Managing software in Research
 
 ### Paddy Tobias, eResearch Analyst, Intersect Australia
 
 ---
 
-## Software in Research: *Context*
+## Software in Research: Context
+
+Software = `source code`
+Text file programs
+
++++
 
 - Increasing support for research data
 - Still little support for research software code
@@ -20,7 +25,6 @@
 
 +++
 
-
 |Mention type|Count (n = 286)|Percentage (%)|
 |--|--|--|
 |Cite to publication|105|37|
@@ -32,13 +36,15 @@
 |Not even name|4|1|
 |--|--|--|
 
----
-## Software management: *Why?*
+[Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")"
 
-- Improving your workflow
-- Scientific reproducibility
-- External engagement
-- Co-authorship opportunities
+---
+## Software management: Why?
+
+- Improving your workflow |
+- Scientific reproducibility |
+- External engagement |
+- Co-authorship opportunities |
 
 +++ 
 
@@ -66,7 +72,7 @@ Alternative code repositories:
 
 ---
 
-## Software management: *How?*
+## Software management: How?
 ```
 if *coding by yourself*:
     then ...
@@ -93,7 +99,7 @@ Note:
 
 ---
 
-## Software management: how?
+## Software management: How?
 ```
 else if *collaborating with others*:
     then ...
@@ -121,15 +127,28 @@ use Atom
 
 ---
 
-## Software management: how?
+## Software management: How?
 ```
 else if *publishing your code*:
     then ...
 ```
 +++
+### Software Citation Principles
+
+- Software should be considered a legitimate and citable product of research
+- Software citations should facilitate giving scholarly credit, attribution to all contributors
+- Software citations should have recognized unique identifiers, machine actionable, interoperable
+- These unique identifiers and metadata describing the software should persist
+- Software citations should facilitate access to the software and use of it
+- Software citations should specify the version that was used
+
+
++++
 ### Software citation and licensing
 
 -  Zenodo and minting DOI
+
+
 
 
 ---
