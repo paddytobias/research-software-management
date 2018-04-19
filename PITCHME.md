@@ -109,7 +109,6 @@ Note:
 
 ![staging](assets/image/git-staging-area.svg)
 
-[Software Carpentary]("https://swcarpentry.github.io/git-novice/04-changes/)
 ---
 
 
