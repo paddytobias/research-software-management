@@ -160,7 +160,7 @@ else if <<publishing your code>>:
 ---
 ### Reproducible research
 
-<iframe class="stretch" data-src="https://www.researchinformation.info/news/cambridge-university-press-partners-code-ocean"></iframe>
+![Code ocean](assets/image/code_ocean_CUP)
 
 ---
 
