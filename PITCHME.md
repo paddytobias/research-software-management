@@ -10,6 +10,7 @@
 ## Software in Research: Context
 
 Software = `source code`
+
 Text file programs
 
 +++
@@ -49,19 +50,19 @@ Text file programs
 +++ 
 
 Things to consider:
-- Writing your code
-- Version control
-- Managing contributions
-- Develop documentation
-- Issues register
-- Licensing
+- Writing your code |
+- Version control |
+- Managing contributions |
+- Develop documentation |
+- Issues register |
+- Licensing |
 
 
 +++ 
 
 ### Git and gitlab.une.edu.au
 
-<iframe class="stretch" data-src="https://gitlab.une.edu.au/"></iframe>
+<iframe class="stretch" src="https://gitlab.une.edu.au/"></iframe>
 
 Alternative code repositories:
 - BitBucket
