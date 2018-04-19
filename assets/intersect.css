@@ -38,7 +38,17 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1,
+.reveal h1 {
+  margin: 0 0 20px 0;
+  color: #f3980c;
+  font-family: "Roboto", "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  text-shadow: none;
+  word-wrap: break-word; }
+  
 .reveal h2 {
   margin: 0 0 20px 0;
   color: #f3980c;
@@ -47,6 +57,7 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
+  text-align: left;
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -60,6 +71,7 @@ body {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
+  text-align: left;
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
@@ -84,6 +96,7 @@ body {
  *********************************************/
 .reveal p {
   margin: 20px 0;
+  text-align: left;
   line-height: 1.3; }
 
 /* Ensure certain elements are never larger than the slide itself */

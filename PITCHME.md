@@ -62,7 +62,7 @@ Things to consider:
 
 ### Git and gitlab.une.edu.au
 
-<iframe src="/redirect.php?url=https://gitlab.une.edu.au/"></iframe>
+<iframe class="stretch" data-src="https://gitlab.une.edu.au/"></iframe>
 
 Alternative code repositories:
 - BitBucket
