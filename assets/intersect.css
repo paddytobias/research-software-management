@@ -38,12 +38,7 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
+.reveal h1 {
   margin: 0 0 20px 0;
   color: #f3980c;
   font-family: "Roboto", "Source Sans Pro", Helvetica, sans-serif;
@@ -51,6 +46,20 @@ body {
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
+  text-shadow: none;
+  word-wrap: break-word; }
+
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #ffffff;
+  font-family: "Roboto", "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: normal;
   text-shadow: none;
   word-wrap: break-word; }
 
