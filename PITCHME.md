@@ -66,15 +66,12 @@ Things to consider:
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
 
----
-<iframe class="stretch" data-src="https://software.ac.uk/resources/guides/choosing-repository-your-software-project"></iframe>
 
 [More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 Note:
 Alternative code repositories:
 - BitBucket
-- GitHub
 - SourceForge
 
 ---
