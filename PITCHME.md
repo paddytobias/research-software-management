@@ -3,17 +3,15 @@
 
 # Managing software in Research
 
-### Paddy Tobias, eResearch Analyst, Intersect Australia
+Dr Paddy Tobias, eResearch Analyst
+Intersect Australia
 
 ---
+- Software = `source code`
+- Text file programs
 
+---
 ## Software in Research: Context
-
-Software = `source code`
-
-Text file programs
-
-+++
 
 - Increasing support for research data
 - Still little support for research software code
@@ -23,26 +21,28 @@ Text file programs
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
 
-
 +++
 
-|Mention type|Count (n = 286)|Percentage (%)|
+|Mention type|Count (%)|
 |--|--|--|
-|Cite to publication|105|37|
-|Cite to user’s manual|6|2|
-|Cite to name or website|15|5|
-|Instrument-like|53|19|
-|URL in text|13|5|
-|In-text name only|90|31|
-|Not even name|4|1|
+|Cite s.w. publication|105 (37%)|
+|In-text s.w. name only|90 (31%)|
+|Instrument s.w.|53 (19%)|
+|Cite project name or website|15 (5%)|
+|Cite s.w. URL|13 (5%)|
+|Cite user’s manual|6 (2%)|
+|Not even name|4 (1%)|
 |--|--|--|
 
-[Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")"
+*n* = 286 
+
+[Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")
 
 ---
 ## Software management: Why?
 
 - Improving your workflow |
+- Coordinating group research |
 - Scientific reproducibility |
 - External engagement |
 - Co-authorship opportunities |
@@ -57,19 +57,21 @@ Things to consider:
 - Issues register |
 - Licensing |
 
-
 +++ 
 
-### Git and gitlab.une.edu.au
+### Git, GitHub, GitLab, Git-everything...
 
-<iframe class="stretch" data-src="https://gitlab.une.edu.au/"></iframe>
+![Git](assets/image/Git-Logo-White.png)
+![GitHub](assets/image/github_logo2.png)
+![GitLab](assets/image/gitlab_logo.png)
 
+[More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
+
+Note:
 Alternative code repositories:
 - BitBucket
 - GitHub
 - SourceForge
-
-[More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 ---
 
