@@ -142,6 +142,7 @@ else if <<publishing your code>>:
 ```
 +++
 <img src="assets/image/force11_logo.png" alt="Force11" style="width: 300px;" align="right"/>
+
 ### Software Citation Principles
 
 1. legitimate and citable research product
