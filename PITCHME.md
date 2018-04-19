@@ -7,13 +7,14 @@
 
 ---
 
-## Context: Software in Research
+## Software in Research: *Context*
 
 - Increasing support for research data
 - Still little support for research software code
 - But software management tools on the rise in research
 
-[[Insert Growing influence of github diagram:https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g25577f6de1_0_20]]
+![Growing influence of GitHub](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
+Perkel, J, *Democratic databases: science on GitHub*, Nature 538, 127–128, October 6, 2016, doi:10.1038/538127a
 
 +++
 
@@ -21,7 +22,7 @@
 [[ insert diagram "https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g263136810c_0_0"]]
 
 ---
-## Software management: why?
+## Software management: *Why?*
 
 - Improving your workflow
 - Scientific reproducibility
@@ -54,7 +55,7 @@ Alternative code repositories:
 
 ---
 
-## Software management: how?
+## Software management: *How?*
 ```
 if *coding by yourself*:
     then ...
@@ -79,7 +80,7 @@ Note:
 - Meaningfully describe major commits, not every commit
 - Git repos make this easy to do. Add >> Commit >> Push
 
----?image=assets/image/kyle-gregory-devaras.jpg
+---
 
 ## Software management: how?
 ```
@@ -123,14 +124,30 @@ else if *publishing your code*:
 ---
 
 ## Git vocabulary
-| Git term | What does it do? | Example |
-|----------|----------------------|------------|
-| `push` | to push and publish commits to your code repository | `git push  <REMOTENAME> <BRANCHNAME>`|
-| `clone` | to grab a complete copy of another user's repository | `git clone https://github.com/<USERNAME>/<REPOSITORY>.git` | 
-| `fetch`| to retrieve new work done by other people | `git fetch <REMOTENAME>` |
-| `merge`| combines your local changes with changes made by others | `git merge <REMOTENAME>/<branchname>`|
-| `pull` | completing both `git fetch` and `git merge` in the same command | `git pull <REMOTENAME> <branchname>` | 
 
+`push` > publish commits to your code repository > `git push  <REMOTENAME> <BRANCHNAME>`
+`clone` > to grab a complete copy of another user's repository > `git clone https://github.com/<USERNAME>/<REPOSITORY>.git` 
+`fetch` > to retrieve new work done by other people > `git fetch <REMOTENAME>`
+`merge`> combines your local changes with changes made by others > `git merge <REMOTENAME>/<branchname>`
+`pull` > completing both `git fetch` and `git merge` in the same command > `git pull <REMOTENAME> <branchname>` 
+
+
+---
+
+## Git vocabulary
+
+```
+git push  <REMOTENAME> <BRANCHNAME>
+git clone https://github.com/<USERNAME>/<REPOSITORY>.git 
+git fetch <REMOTENAME> 
+git merge <REMOTENAME>/<branchname>
+git pull <REMOTENAME> <branchname>
+```
+@[1](`push`: to push or publish commits to your code repository)
+@[2](`clone`: to grab a complete copy of another user's repository)
+@[3](`fetch`: to retrieve new work done by other people)
+@[4](`merge`: combines your local changes with changes made by others)
+@[5](`pull`: completing both `git fetch` and `git merge` in the same command)
 
 ## Benefits
 - Research Impact and Engagement: who are your end users?
@@ -140,3 +157,5 @@ else if *publishing your code*:
 ## Where to next?
 
 Come to the class next week: 9.30-12.30, 8th May
+
+Code for this presentation: https://github.com/paddytobias/research-software-management
