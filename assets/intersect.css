@@ -38,7 +38,8 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1 {
+.reveal h1,
+.reveal h2 {
   margin: 0 0 20px 0;
   color: #f3980c;
   font-family: "Roboto", "Source Sans Pro", Helvetica, sans-serif;
@@ -49,7 +50,6 @@ body {
   text-shadow: none;
   word-wrap: break-word; }
 
-.reveal h2,
 .reveal h3,
 .reveal h4,
 .reveal h5,
@@ -60,6 +60,7 @@ body {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
+  text-transform: capitalize;
   text-shadow: none;
   word-wrap: break-word; }
 
