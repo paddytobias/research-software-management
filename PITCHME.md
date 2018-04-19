@@ -58,7 +58,7 @@ Things to consider:
 - Issues register |
 - Licensing |
 
----
++++
 
 ## How to manage your code?
 
@@ -78,7 +78,7 @@ Alternative code repositories:
 - BitBucket
 - SourceForge
 
-+++
+---
 
 ```
 if <<coding by/for yourself>>:
@@ -109,8 +109,6 @@ Note:
 
 ---
 
-
-
 ```
 else if <<collaborating with others>>:
     then ...
@@ -127,12 +125,9 @@ Git has many ways to manage contributions:
 +++ 
 ### Documentation 
 
-- Create a README.md file
-- [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Use Atom
-- consider user guides as well
-
-<iframe class="stretch" data-src="https://github.com/atom/atom"></frame>
+- Create a README.md file |
+- [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) & use Atom |
+- consider user guides as well (e.g., for installing, use, examples) |
 
 Note: 
 use Atom
@@ -142,20 +137,19 @@ use Atom
 
 ---
 
-## Software management: How?
 ```
-else if *publishing your code*:
+else if <<publishing your code>>:
     then ...
 ```
 +++
 ### Software Citation Principles
 
-- Software should be considered a legitimate and citable product of research
-- Software citations should facilitate giving scholarly credit, attribution to all contributors
-- Software citations should have recognized unique identifiers, machine actionable, interoperable
-- These unique identifiers and metadata describing the software should persist
-- Software citations should facilitate access to the software and use of it
-- Software citations should specify the version that was used
+1. considered a legitimate and citable product of research
+2. facilitates giving scholarly credit, attribution to all contributors
+3. citations should have recognized unique identifiers, machine actionable, interoperable
+4. unique identifiers and metadata describing the software should persist
+5. citations should facilitate access to the software and use of it
+6.  citations should specify the version that was used
 
 
 +++
