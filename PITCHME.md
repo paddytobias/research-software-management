@@ -141,9 +141,7 @@ else if <<publishing your code>>:
     then ...
 ```
 +++
-### Software Citation Principles
-![Force11](assets/image/force11_logo.png)
-
+### Software Citation Principles <img src="assets/image/force11_logo.png" alt="Force11" style="width: 250px;"/>
 1. legitimate and citable research product
 2. gives scholarly credit
 3. citations should use unique identifiers
