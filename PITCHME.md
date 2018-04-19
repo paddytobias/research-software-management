@@ -107,7 +107,8 @@ Note:
 
 +++
 
-![staging](assets/image/git-staging-area.svg]
+![staging](assets/image/git-staging-area.png]
+
 [Software Carpentary]("https://swcarpentry.github.io/git-novice/04-changes/)
 ---
 
