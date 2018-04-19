@@ -158,9 +158,15 @@ else if <<publishing your code>>:
 
 
 +++
-### Reproducible research
+### Reproducible research...
 
 ![Code ocean](assets/image/code_ocean_CUP.png)(https://www.researchinformation.info/news/cambridge-university-press-partners-code-ocean)
+
++++
+### Code Ocean
+
+<iframe class="stretch" data-src="https://codeocean.com/"></iframe>
+
 
 ---
 
