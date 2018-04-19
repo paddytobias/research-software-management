@@ -13,13 +13,24 @@
 - Still little support for research software code
 - But software management tools on the rise in research
 
-![Growing influence of GitHub](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
-Perkel, J, *Democratic databases: science on GitHub*, Nature 538, 127–128, October 6, 2016, doi:10.1038/538127a
++++
+
+![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
+
 
 +++
 
 
-[[ insert diagram "https://docs.google.com/presentation/d/1LNinarnFfgLRfmF_IiqrZcaoJkTVTsapJN9W3o5Qfgg/mobilepresent?slide=id.g263136810c_0_0"]]
+|Mention type|Count (n = 286)|Percentage (%)|
+|--|--|--|
+|Cite to publication|105|37|
+|Cite to user’s manual|6|2|
+|Cite to name or website|15|5|
+|Instrument-like|53|19|
+|URL in text|13|5|
+|In-text name only|90|31|
+|Not even name|4|1|
+|--|--|--|
 
 ---
 ## Software management: *Why?*
@@ -150,3 +161,16 @@ git pull <REMOTENAME> <branchname>
 Come to the class next week: 9.30-12.30, 8th May
 
 Code for this presentation: https://github.com/paddytobias/research-software-management
+
++++
+## Bibliography
+
+Perkel, J, "Democratic databases: science on GitHub", *Nature* 538, 127–128, October 6, 2016, doi:10.1038/538127a
+
+Howison, J, Bullard, J, "Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature", *Journal of the Assoc. for Information Science and Technology*, 67(9), 2137-2155, https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538
+
+Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86
+
+
+
+
