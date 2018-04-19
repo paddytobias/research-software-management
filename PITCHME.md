@@ -107,8 +107,14 @@ Note:
 
 +++
 
+
+<iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
+
++++ 
+
 ![staging](assets/image/git-staging-area.svg)
 
+[Software Carpentary]("https://swcarpentry.github.io/git-novice/04-changes/)
 ---
 
 
