@@ -107,7 +107,7 @@ Note:
 
 +++
 
-![staging](assets/image/git-staging-area.png]
+![staging](assets/image/git-staging-area.svg)
 
 [Software Carpentary]("https://swcarpentry.github.io/git-novice/04-changes/)
 ---
@@ -131,7 +131,7 @@ Git has many ways to manage contributions:
 ### Documentation 
 
 - Create a README.md file
-- [Learn Markdown] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Use Atom
 - consider user guides as well
 
