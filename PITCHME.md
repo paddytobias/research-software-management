@@ -43,6 +43,7 @@ Intersect Australia
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 *n* = 286 
+
 [Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")
 
 +++ 
@@ -68,7 +69,7 @@ Things to consider:
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
 
 
-[More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
+[More options here...](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 Note:
 Alternative code repositories:
@@ -87,7 +88,7 @@ if <<coding by/for yourself>>:
 - If adapting code from someone else, don't! Write you're own and copy/paste the chunks you want |
 - Have a plan for your code before you start writing. What do you want it to do? |
 - Draw your plans... before you write your code |
-- Where to start? What are your **inputs** and **outputs**? |
+- What are your inputs and outputs? |
 - Add comments to your code |
 
 Note: 
