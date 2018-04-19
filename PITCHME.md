@@ -142,7 +142,16 @@ else if <<publishing your code>>:
 ```
 +++
 ### Software Citation Principles
+![Force11](assets/image/force11_logo.png)
 
+1. legitimate and citable research product
+2. gives scholarly credit
+3. citations should use unique identifiers
+4. persistant unique identifiers (e.g., DOIs)
+5. facilitate access to the software
+6. specify the version
+
+Note: 
 1. considered a legitimate and citable product of research
 2. facilitates giving scholarly credit, attribution to all contributors
 3. citations should have recognized unique identifiers, machine actionable, interoperable
@@ -154,7 +163,8 @@ else if <<publishing your code>>:
 +++
 ### Software citation and licensing
 
--  Zenodo and minting DOI
+<img src= "assets/image/zenodo_logo.svg" alt="Zenodo">
+<img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 
 
 +++
@@ -196,8 +206,7 @@ git pull <REMOTENAME> <branchname>
 
 Come to the class next week: 9.30-12.30, 8th May
 
-+++
-<iframe class="stretch" data-src="https://github.com/paddytobias/research-software-management"></frame>
+Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)
 
 +++
 ## Bibliography
