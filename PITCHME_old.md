@@ -1,11 +1,11 @@
-@title[Introduction]
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 
 # Managing source code in Research
 
 ### Paddy Tobias, eResearch Analyst, Intersect Australia
 
----
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 ## Context: Software in Research
 
@@ -52,7 +52,7 @@ Alternative code repositories:
 
 [More options here](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
----
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 ## Software management: how?
 ```
@@ -107,7 +107,7 @@ use Atom
 +++ 
 ### Issues register
 
----
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 ## Software management: how?
 ```
@@ -120,7 +120,7 @@ else if *publishing your code*:
 -  Zenodo and minting DOI
 
 
----
+---?image=assets/image/kyle-gregory-devaras.jpg
 
 ## Git vocabulary
 | Git term | What does it do? | Example |
@@ -136,7 +136,7 @@ else if *publishing your code*:
 - Research Impact and Engagement: who are your end users?
 
 
----
+---?image=assets/image/kyle-gregory-devaras.jpg
 ## Where to next?
 
 Come to the class next week: 9.30-12.30, 8th May
