@@ -169,7 +169,8 @@ body {
 .reveal code {
   font-family: monospace; 
   font-size: 1.2em;
-  text-align: center; }
+  text-align: left; 
+  margin: 50px; }
 
 .reveal pre code {
   display: block;
