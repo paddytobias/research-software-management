@@ -103,8 +103,9 @@ Note:
 - Set version control up as the first thing you do |
 - Make regular commits |
 - Meaningfully describe major commits, not every commit |
-- Most repos have a three step process. Add >> Commit >> Push |
-
+- Most repos have a three step process. |
+    
+`Add` >> `Commit` >> `Push` 
 <iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
 
 ---
