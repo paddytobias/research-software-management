@@ -196,7 +196,8 @@ git pull <REMOTENAME> <branchname>
 
 Come to the class next week: 9.30-12.30, 8th May
 
-Code for this presentation: https://github.com/paddytobias/research-software-management
++++
+<iframe class="stretch" data-src="https://github.com/paddytobias/research-software-management"></frame>
 
 +++
 ## Bibliography
