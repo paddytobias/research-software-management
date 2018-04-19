@@ -42,10 +42,7 @@ Intersect Australia
 |Cite s.w. URL|13 (5%)|
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
-|--|--|--|
-
 *n* = 286 
-
 [Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")
 
 +++ 
