@@ -125,17 +125,6 @@ else if *publishing your code*:
 
 ## Git vocabulary
 
-`push` > publish commits to your code repository > `git push  <REMOTENAME> <BRANCHNAME>`
-`clone` > to grab a complete copy of another user's repository > `git clone https://github.com/<USERNAME>/<REPOSITORY>.git` 
-`fetch` > to retrieve new work done by other people > `git fetch <REMOTENAME>`
-`merge`> combines your local changes with changes made by others > `git merge <REMOTENAME>/<branchname>`
-`pull` > completing both `git fetch` and `git merge` in the same command > `git pull <REMOTENAME> <branchname>` 
-
-
----
-
-## Git vocabulary
-
 ```
 git push  <REMOTENAME> <BRANCHNAME>
 git clone https://github.com/<USERNAME>/<REPOSITORY>.git 
@@ -143,11 +132,13 @@ git fetch <REMOTENAME>
 git merge <REMOTENAME>/<branchname>
 git pull <REMOTENAME> <branchname>
 ```
-@[1](`push`: to push or publish commits to your code repository)
-@[2](`clone`: to grab a complete copy of another user's repository)
-@[3](`fetch`: to retrieve new work done by other people)
-@[4](`merge`: combines your local changes with changes made by others)
-@[5](`pull`: completing both `git fetch` and `git merge` in the same command)
+@[1](`push` to push or publish commits to your code repository)
+@[2](`clone` to grab a complete copy of another user's repository)
+@[3](`fetch` to retrieve new work done by other people)
+@[4](`merge` combines your local changes with changes made by others)
+@[5](`pull` completing both *git fetch* and *git merge* in the same command)
+
+---
 
 ## Benefits
 - Research Impact and Engagement: who are your end users?
