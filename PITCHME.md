@@ -124,7 +124,7 @@ Git has many ways to manage contributions:
 ### Documentation 
 
 - Create a README.md file |
-- [Learn Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
+- Learn Markdown |
 - Use Atom |
 - Consider user guides as well (e.g., for installing, use, examples) |
 
@@ -157,7 +157,7 @@ else if <<publishing your code>>:
 -  Zenodo and minting DOI
 
 
-+++
+---
 ### Reproducible research
 
 <iframe class="stretch" data-src="https://www.researchinformation.info/news/cambridge-university-press-partners-code-ocean"></iframe>
