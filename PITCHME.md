@@ -61,7 +61,7 @@ Things to consider:
 
 ### Git, GitHub, GitLab, Git-everything...
 
-![Git](assets/image/Git-Logo-White.eps)
+![Git](assets/image/git_logo.jpg)
 ![GitHub](assets/image/github_logo2.png)
 ![GitLab](assets/image/gitlab_logo.png)
 
