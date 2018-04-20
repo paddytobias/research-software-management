@@ -71,8 +71,6 @@ Things to consider:
 <img src="assets/image/git_logo.jpg" alt="Git" style="width: 370px;"/>
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
-
-
 [More options here...](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 Note:
@@ -88,26 +86,26 @@ if <<CODING BY/FOR YOURSELF>>:
 ```
 +++
 
+### Version control
+- Set version control up as the first thing you do |
+- Make regular commits |
+- Meaningfully describe major commits, not every commit |
+- Most repos have a two step process to safe-guard from errors |
+
+<iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
+
++++
+
 ### Writing your code
 - If adapting code from someone else, don't! Write you're own and copy/paste the chunks you want |
-- Have a plan for your code before you start writing. What do you want it to do? |
-- Draw your plans... before you write your code |
-- What are your inputs and outputs? |
+- Have a plan for your code before you start writing. What do you want the code to achieve? |
+- Draw your plans... before you write your code. What are your inputs and outputs? |
 - Add comments to your code |
 
 Note: 
 * there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
 * more so, draw these concepts before you begin coding. 
 * take into account your inputs and outputs. what goes into your program and what do you want to come out
-
-+++
-### Version control
-- Set version control up as the first thing you do |
-- Make regular commits |
-- Meaningfully describe major commits, not every commit |
-- Most repos have a two step process to safe-guard from errors |
-     
-<iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
 
 ---
 
@@ -119,7 +117,7 @@ else if <<COLLABORATING WITH OTHERS>>:
 +++
 ### Managing contributions
 Git has many ways to manage contributions:
-- only owners can make changes, but everyone else can recommend changes. i.e., `Pull request` 
+- only owners can make changes, but everyone else can recommend changes. i.e., `pull request` 
 - each change is identified and marked with a unique id, meaning that you can rollback to previous versions
 - repos can be `forked` and `merged`
 
@@ -137,6 +135,8 @@ use Atom
 
 +++ 
 ### Issues register
+
+<iframe class="stretch" data-src="output.txt"></iframe>
 
 ---
 
