@@ -229,7 +229,7 @@ Code for this presentation: [github.com/paddytobias/research-software-management
 +++
 ## Reference list
 
-<font size="10">GitHub, 2016 "Making your Code Citable", https://guides.github.com/activities/citable-code/</font>
+<font size="3">GitHub, 2016 "Making your Code Citable", https://guides.github.com/activities/citable-code/</font>
 
 Howison, J, Bullard, J, "Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature", *Journal of the Assoc. for Information Science and Technology*, 67(9), 2137-2155, https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538
 
