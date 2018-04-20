@@ -134,9 +134,13 @@ Note:
 use Atom
 
 +++ 
-### Issues register
+<img src="assets/image/waffle_logo.png" alt="waffle.io" style="width: 300px;" align="right"/>
 
-<iframe class="stretch" data-src="output.txt"></iframe>
+### Issues register and Project management
+
+- Allow team mates or public to register issues |
+- Track the resolution of these issues on [Waffle.io](https://waffle.io) |
+
 
 ---
 
