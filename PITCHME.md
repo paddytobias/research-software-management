@@ -9,7 +9,7 @@ Intersect Australia
 
 ---
 - Software = `source code`
-- Text file programs
+- i.e., text file programs
 
 ---
 ## Software in Research: Context
@@ -82,7 +82,7 @@ Alternative code repositories:
 ---
 
 ```
-if <<coding by/for yourself>>:
+if <<CODING BY/FOR YOURSELF>>:
     then ...
 ```
 +++
@@ -111,7 +111,7 @@ Note:
 ---
 
 ```
-else if <<collaborating with others>>:
+else if <<COLLABORATING WITH OTHERS>>:
     then ...
 ```
 
@@ -140,7 +140,7 @@ use Atom
 ---
 
 ```
-else if <<publishing your code>>:
+else if <<PUBLISHING YOUR CODE>>:
     then ...
 ```
 +++
