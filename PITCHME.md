@@ -193,8 +193,8 @@ Note:
 +++
 ### Software citation and licensing
 
-<img src="assets/image/zenodo_logo.png" alt="Zenodo" style="height: 150px;"/>
-<img src="assets/image/github_logo2.png" alt="GitHub" style="height: 150px;"/ align="right">
+<img src="assets/image/zenodo_logo.png" alt="Zenodo" style="height: 100px;"/>
+<img src="assets/image/github_logo2.png" alt="GitHub" style="height: 100px;"/ align="right">
 
 * Zenodo allows you to archive your code with them
 * In turn Zenodo will issue you a Digital Object Identifier for the collection
