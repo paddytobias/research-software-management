@@ -30,6 +30,7 @@ Intersect Australia
 +++
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
+[Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
 
@@ -44,7 +45,7 @@ Intersect Australia
 |Not even name|4 (1%)|
 *n* = 286 
 
-[Howison, J, Bullard, J, 2016]("https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538")
+Read: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")
 
 +++ 
 
@@ -167,6 +168,10 @@ Note:
 <img src="assets/image/zenodo_logo.png" alt="Zenodo" style="height: 150px;"/>
 <img src="assets/image/github_logo2.png" alt="GitHub" style="height: 150px;"/ align="right">
 
+* Zenodo allows you to archive your code with them
+* In turn Zenodo will issue you a Digital Object Identifier for the collection
+
+READ: [Making your Code Citable](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
 ### Reproducible research...
@@ -210,11 +215,13 @@ Come to the class next week: 9.30-12.30, 8th May
 Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)
 
 +++
-## Bibliography
+## Reference list
 
-Perkel, J, "Democratic databases: science on GitHub", *Nature* 538, 127–128, October 6, 2016, doi:10.1038/538127a
+GitHub, 2016 "Making your Code Citable", https://guides.github.com/activities/citable-code/
 
 Howison, J, Bullard, J, "Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature", *Journal of the Assoc. for Information Science and Technology*, 67(9), 2137-2155, https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538
+
+Perkel, J, "Democratic databases: science on GitHub", *Nature* 538, 127–128, October 6, 2016, doi:10.1038/538127a
 
 Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86
 
