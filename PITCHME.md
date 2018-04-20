@@ -32,7 +32,7 @@
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
 
-[Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
+READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
 
@@ -48,7 +48,7 @@
 
 <p style="text-align:right">*n* = 286</p> 
 
-<DIV ALIGN=CENTER>Read: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
+<DIV ALIGN=CENTER>READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
 
 +++ 
 
