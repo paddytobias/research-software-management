@@ -99,11 +99,11 @@ if <<CODING BY/FOR YOURSELF>>:
 +++
 
 ### Writing your code
-- Where possible look for open source code to work from
+- Where possible look for **open source code** to work from
 - However, if **adapting** code from someone else, best not to. Write you're own and copy/paste the chunks you want |
-- Have a plan for your code before you start writing. What do you want the code to achieve? |
-- Draw your plans... before you write your code. Starting point: What are your inputs and outputs? |
-- Add comments to your code as write |
+- Have a **plan** for your code before you start writing. What do you want the code to achieve? |
+- **Draw** your plans... before you write your code. Starting point: What are your inputs and outputs? |
+- Add **comments** to your code as write |
 
 Note: 
 * there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
