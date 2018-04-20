@@ -82,6 +82,8 @@ Alternative code repositories:
 
 ```
 if <<CODING BY/FOR YOURSELF>>:
+
+
     then ...
 ```
 +++
@@ -111,6 +113,7 @@ Note:
 
 ```
 else if <<COLLABORATING WITH OTHERS>>:
+
     then ...
 ```
 
@@ -151,6 +154,7 @@ https://waffle.io/paddytobias/research-software-management
 
 ```
 else if <<PUBLISHING YOUR CODE>>:
+
     then ...
 ```
 +++
