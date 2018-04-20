@@ -46,7 +46,7 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 
-<p style="text-align:right">*n* = 286</p> 
+<p style="text-align:centre">*n* = 286</p> 
 
 <DIV ALIGN=CENTER>READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
 
@@ -57,7 +57,7 @@ Things to consider:
 - Version control |
 - Managing contributions |
 - Develop documentation |
-- Issues register |
+- Issues register and project management |
 - Licensing |
 
 +++
@@ -103,11 +103,11 @@ if you dont want to do this by command line, consider a number of desktop client
 +++
 
 ### Writing your code
-- Where possible look for **open source code** to work from |
-- However, if **adapting** code from someone else, best not to. Write you're own and copy/paste the chunks you want |
-- Have a **plan** for your code before you start writing. What do you want the code to achieve? |
-- **Draw** your plans... before you write your code. Starting point: What are your inputs and outputs? |
-- Add **comments** to your code as write |
+- Where possible look for **open source code** to work from 
+- However, if **adapting** code from someone else, best not to. Write you're own and copy/paste the chunks you want 
+- Have a **plan** for your code before you start writing. What do you want the code to achieve? 
+- **Draw** your plans... before you write your code. Starting point: What are your inputs and outputs? 
+- Add **comments** to your code as write 
 
 Note: 
 * there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
@@ -147,8 +147,9 @@ use Atom
 +++ 
 <img src="assets/image/waffle_logo.png" alt="waffle.io" style="height: 150px;" align="right"/>
 
-### Issues register and Project management
+### Issues/'To dos' register and Project management
 
+- Consider issues ~ 'To Dos'
 - See software development as a project
 - Allow team mates or public to register issues
 - Track the resolution of these issues
