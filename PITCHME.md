@@ -199,6 +199,8 @@ Note:
 * Zenodo allows you to archive your code with them
 * In turn Zenodo will issue you a Digital Object Identifier for the collection
 
+![example](assets/image/example_doi.png)
+
 READ: [Making your Code Citable](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
@@ -251,7 +253,7 @@ git pull <REMOTENAME> <branchname>
 
 <p><font size="3">Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86</font></p>
 
-<p><font size="4">Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)</font></p>
+<p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)</font></p>
 
 
 
