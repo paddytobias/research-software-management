@@ -122,9 +122,9 @@ else if <<COLLABORATING WITH OTHERS>>:
 +++
 ### Managing contributions
 Git has many ways to manage contributions:
-- only owners can make changes, but everyone else can recommend changes. i.e., `pull request` 
-- each change is identified and marked with a unique id, meaning that you can rollback to previous versions
-- repos can be `forked` and `merged`, `upstream` and `downstream`
+- only owners can make changes, but everyone else can recommend changes. i.e., **pull request** |
+- each change is **identified** and marked with a **unique id**, meaning that you can rollback to previous versions |
+- repos can be **forked** and **merged**, **upstream** and **downstream** |
 
 
 +++ 
