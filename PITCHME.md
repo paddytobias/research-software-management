@@ -238,7 +238,7 @@ git pull <REMOTENAME> <branchname>
 ---
 ## Where to next?
 
-Come to the [Version Control with Git](https://www.eventbrite.com.au/e/git-at-une-armidale-registration-45282864266) in two weeks: 9.30am-12.30pm, **8 May**
+Come to the [Version Control with Git](https://www.eventbrite.com.au/e/git-at-une-armidale-registration-45282864266) in two weeks: 12.30-4:30pm, **8 May**
 
 
 Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)
