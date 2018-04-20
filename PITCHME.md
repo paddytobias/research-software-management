@@ -134,10 +134,11 @@ Note:
 use Atom
 
 +++ 
-<img src="assets/image/waffle_logo.png" alt="waffle.io" style="width: 300px;" align="right"/>
+<img src="assets/image/waffle_logo.png" alt="waffle.io" style="height: 150px;" align="right"/>
 
 ### Issues register and Project management
 
+- See software development as a project
 - Allow team mates or public to register issues
 - Track the resolution of these issues on [Waffle.io](https://waffle.io)
 
