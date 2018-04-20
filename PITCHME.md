@@ -45,7 +45,8 @@ Intersect Australia
 |Cite s.w. URL|13 (5%)|
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
-*n* = 286 
+
+<p align="right">*n* = 286</p> 
 
 Read: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")
 
@@ -104,7 +105,7 @@ Note:
 - Set version control up as the first thing you do |
 - Make regular commits |
 - Meaningfully describe major commits, not every commit |
-- Most repos have a three step process. |
+- Most repos have a two step process to safe-guard from errors |
      
 <iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
 
