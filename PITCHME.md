@@ -164,7 +164,7 @@ Note:
 +++
 ### Software citation and licensing
 
-<img src= "assets/image/zenodo_logo.jpeg" alt="Zenodo" style="width: 370px;"/>
+<img src= "assets/image/zenodo_logo.png" alt="Zenodo" style="width: 370px;"/>
 
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 
