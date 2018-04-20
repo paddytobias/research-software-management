@@ -46,7 +46,7 @@ Intersect Australia
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 
-<p align="right">*n* = 286</p> 
+<p style="text-align:right">*n* = 286</p> 
 
 Read: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")
 
