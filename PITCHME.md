@@ -4,6 +4,7 @@
 # Managing software in Research
 
 Dr Paddy Tobias, eResearch Analyst
+
 Intersect Australia
 
 ---
@@ -30,6 +31,7 @@ Intersect Australia
 +++
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
+
 [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
