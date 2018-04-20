@@ -198,7 +198,7 @@ Note:
 
 * Zenodo allows you to archive your code with them
 * In turn Zenodo will issue you a Digital Object Identifier for the collection
-READ: [Making your Code Citable](https://gitpitch.com/paddytobias/research-software-management#/9/1)
+(READ: [Making your Code Citable](https://gitpitch.com/paddytobias/research-software-management#/9/1))
 
 ![example](assets/image/example_doi.png)
 
