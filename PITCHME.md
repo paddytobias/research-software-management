@@ -96,6 +96,10 @@ if <<CODING BY/FOR YOURSELF>>:
 
 <iframe class="stretch" data-src="https://swcarpentry.github.io/git-novice/fig/git-staging-area.svg"></iframe>
 
+Note:
+
+if you dont want to do this by command line, consider a number of desktop clients that talk to git repositories
+
 +++
 
 ### Writing your code
@@ -122,9 +126,9 @@ else if <<COLLABORATING WITH OTHERS>>:
 +++
 ### Managing contributions
 Git has many ways to manage contributions:
-- only owners can make changes, but everyone else can recommend changes. i.e., **pull request** |
-- each change is **identified** and marked with a **unique id**, meaning that you can rollback to previous versions |
-- repos can be **forked** and **merged**, **upstream** and **downstream** |
+- only owners can make changes, but everyone else can recommend changes. i.e., `pull request` 
+- each change is identified and marked with a unique id, meaning that you can rollback to previous versions
+- repos can be `forked` and `merged`, `upstream` and `downstream`
 
 
 +++ 
@@ -133,8 +137,9 @@ Git has many ways to manage contributions:
 
 - Create a README.md file for every project |
 - Learn Markdown |
-- Use Atom |
 - Consider user guides as well (e.g., for installing, use, examples) |
+
+TRY:[Atom](atom.io)
 
 Note: 
 use Atom
@@ -146,7 +151,9 @@ use Atom
 
 - See software development as a project
 - Allow team mates or public to register issues
-- Track the resolution of these issues on [Waffle.io](https://waffle.io)
+- Track the resolution of these issues
+
+TRY:[Waffle.io](https://waffle.io)
 
 Note:
 
