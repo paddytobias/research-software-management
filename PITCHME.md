@@ -138,8 +138,12 @@ use Atom
 
 ### Issues register and Project management
 
-- Allow team mates or public to register issues |
-- Track the resolution of these issues on | [Waffle.io](https://waffle.io) |
+- Allow team mates or public to register issues
+- Track the resolution of these issues on [Waffle.io](https://waffle.io)
+
+Note:
+
+https://waffle.io/paddytobias/research-software-management
 
 
 ---
