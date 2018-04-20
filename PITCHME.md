@@ -99,10 +99,11 @@ if <<CODING BY/FOR YOURSELF>>:
 +++
 
 ### Writing your code
-- If adapting code from someone else, don't! Write you're own and copy/paste the chunks you want |
+- Where possible look for open source code to work from
+- However, if *adapting* code from someone else, *best not to* Write you're own and copy/paste the chunks you want |
 - Have a plan for your code before you start writing. What do you want the code to achieve? |
-- Draw your plans... before you write your code. What are your inputs and outputs? |
-- Add comments to your code |
+- Draw your plans... before you write your code. Starting point: What are your inputs and outputs? |
+- Add comments to your code as write |
 
 Note: 
 * there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
@@ -114,6 +115,7 @@ Note:
 ```
 else if <<COLLABORATING WITH OTHERS>>:
 
+
     then ...
 ```
 
@@ -122,13 +124,14 @@ else if <<COLLABORATING WITH OTHERS>>:
 Git has many ways to manage contributions:
 - only owners can make changes, but everyone else can recommend changes. i.e., `pull request` 
 - each change is identified and marked with a unique id, meaning that you can rollback to previous versions
-- repos can be `forked` and `merged`
+- repos can be `forked` and `merged`, `upstream` and `downstream`
 
 
 +++ 
+<img src="assets/image/atom_logo.png" alt="atom" style="height: 150px;" align="right"/>
 ### Documentation 
 
-- Create a README.md file |
+- Create a README.md file for every project |
 - Learn Markdown |
 - Use Atom |
 - Consider user guides as well (e.g., for installing, use, examples) |
@@ -154,6 +157,7 @@ https://waffle.io/paddytobias/research-software-management
 
 ```
 else if <<PUBLISHING YOUR CODE>>:
+
 
     then ...
 ```
