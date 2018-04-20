@@ -240,8 +240,6 @@ git pull <REMOTENAME> <branchname>
 
 - Come to the [Version Control with Git](https://www.eventbrite.com.au/e/git-at-une-armidale-registration-45282864266) in two weeks: 12.30-4:30pm, **8 May**
 
-- Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)
-
 +++
 ## Reference list
 
@@ -252,6 +250,11 @@ git pull <REMOTENAME> <branchname>
 <p><font size="3">Perkel, J, "Democratic databases: science on GitHub", *Nature* 538, 127–128, October 6, 2016, doi:[10.1038/538127a](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)</font></p>
 
 <p><font size="3">Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86</font></p>
+
+<p><font size="4">Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)</font></p>
+
+
+
 
 
 
