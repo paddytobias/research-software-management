@@ -3,9 +3,9 @@
 
 # Managing software in Research
 
-Dr Paddy Tobias, eResearch Analyst
+<p><div align=center>Dr Paddy Tobias, eResearch Analyst</div></p>
 
-Intersect Australia
+<p><div align=center>Intersect Australia</div></p>
 
 ---
 - Software = `source code`
