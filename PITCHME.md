@@ -9,12 +9,13 @@
 
 ---
 - Software = `source code`
-- i.e., text file programs
+
+  i.e., text file programs
 
 ---
 ## Software in Research: Context
 
-- Increasing support for research data
+- Increasing support for research data in universities
 - Still little support for research software code
 - But software management tools on the rise in research
 
@@ -35,8 +36,8 @@
 READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
 +++
-
-|Mention type|Count (%)|
+### 2000-2010 Biology journal articles
+|Mention types|Count (%)|
 |--|--|--|
 |Cite s.w. publication|105 (37%)|
 |In-text s.w. name only|90 (31%)|
@@ -46,14 +47,18 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 
-<p style="text-align:centre">*n* = 286</p> 
+<p style="text-align:centre">*articles* = 59; *mentions* = 286</p>
 
 <DIV ALIGN=CENTER>READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
 
-+++ 
+Note:
+* from 91 randomly selected Biology articles published between 2000-2010
+* 59 had a mention of software in some form or another
+
++++
 
 Things to consider:
-- Writing your code |
+- Approaches to code writing |
 - Version control |
 - Managing contributions |
 - Develop documentation |
@@ -69,6 +74,7 @@ Things to consider:
 
 
 <img src="assets/image/git_logo.jpg" alt="Git" style="width: 370px;"/>
+
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
 [More options here...](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
@@ -98,20 +104,23 @@ if <<CODING BY/FOR YOURSELF>>:
 
 Note:
 
-if you dont want to do this by command line, consider a number of desktop clients that talk to git repositories
+if you dont want to do this via command line, consider a number of desktop clients that talk to git repositories. E.g., GitHub Desktop
 
 +++
 
 ### Writing your code
-- Where possible look for **open source code** to work from 
-- However, if **adapting** code from someone else, best not to. Write you're own and copy/paste the chunks you want 
-- Have a **plan** for your code before you start writing. What do you want the code to achieve? 
-- **Draw** your plans... before you write your code. Starting point: What are your inputs and outputs? 
-- Add **comments** to your code as write 
+- Where possible look for **open source code** to work from
+- However, if wanting to **adapt** code from someone else, best not to. Write you're own and copy/paste the chunks you want
+- Have a **plan** for your code before you start writing. What do you want the code to achieve?
+- **Draw** plans before you write your code.
+  - What are your inputs and outputs?
+  - Repetitive calculations?
+  - Any conditionals?
+- Make **comments** in your code as write
 
-Note: 
-* there are formal design architecutres you can follow (e.g., Unified Modeling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
-* more so, draw these concepts before you begin coding. 
+Note:
+* there are formal design architectures you can follow (e.g., Unified Modelling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
+* more so, draw these concepts before you begin coding.
 * take into account your inputs and outputs. what goes into your program and what do you want to come out
 
 ---
@@ -126,14 +135,14 @@ else if <<COLLABORATING WITH OTHERS>>:
 +++
 ### Managing contributions
 Git has many ways to manage contributions:
-- only owners can make changes, but everyone else can recommend changes. i.e., `pull request` 
+- only owners can make changes, but everyone else can recommend changes. i.e., `pull request`
 - each change is identified and marked with a unique id, meaning that you can rollback to previous versions
 - repos can be `forked` and `merged`, `upstream` and `downstream`
 
 
-+++ 
++++
 <img src="assets/image/atom_logo.png" alt="atom" style="height: 150px;" align="right"/>
-### Documentation 
+### Documentation
 
 - Create a README.md file for every project |
 - Learn Markdown |
@@ -141,10 +150,10 @@ Git has many ways to manage contributions:
 
 TRY:[Atom](atom.io)
 
-Note: 
+Note:
 use Atom
 
-+++ 
++++
 <img src="assets/image/waffle_logo.png" alt="waffle.io" style="height: 150px;" align="right"/>
 
 ### Issues/'To dos' register and Project management
@@ -177,14 +186,14 @@ else if <<PUBLISHING YOUR CODE>>:
 1. legitimate and citable research product
 2. gives scholarly credit
 3. citations should use unique identifiers
-4. persistant unique identifiers (e.g., DOIs)
+4. persistent unique identifiers (e.g., DOIs)
 5. facilitate access to the software
 6. specify the version
 
-Note: 
+Note:
 1. considered a legitimate and citable product of research
 2. facilitates giving scholarly credit, attribution to all contributors
-3. citations should have recognized unique identifiers, machine actionable, interoperable
+3. citations should have recognised unique identifiers, machine actionable, interoperable
 4. unique identifiers and metadata describing the software should persist
 5. citations should facilitate access to the software and use of it
 6.  citations should specify the version that was used
@@ -220,8 +229,8 @@ Note:
 
 ```
 git push  <REMOTENAME> <BRANCHNAME>
-git clone https://github.com/<USERNAME>/<REPOSITORY>.git 
-git fetch <REMOTENAME> 
+git clone https://github.com/<USERNAME>/<REPOSITORY>.git
+git fetch <REMOTENAME>
 git merge <REMOTENAME>/<branchname>
 git pull <REMOTENAME> <branchname>
 ```
@@ -234,7 +243,12 @@ git pull <REMOTENAME> <branchname>
 ---
 
 ## Benefits
-- Research Impact and Engagement: who are your end users?
+- Research Impact and Engagement |
+  - engaging with end users |
+  - tracking engagement |
+- Global collaborations |
+- More recognition for your work |
+- Reproducible research |
 
 
 ---
@@ -255,9 +269,4 @@ git pull <REMOTENAME> <branchname>
 
 <p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)</font></p>
 
-
-
-
-
-
-
+t0nnjfubb6q8hg0
