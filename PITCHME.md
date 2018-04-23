@@ -45,9 +45,9 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 |Cite project name or website|15 (5%)|
 |Cite s.w. URL|13 (5%)|
 |Cite user’s manual|6 (2%)|
-|Not even name|4 (1%)|
+|No name|4 (1%)|
 
-<p style="text-align:center"><font size="4">*articles* = 59; *mentions* = 286</font></p>
+<p style="text-align:center"><font size="4">*articles* = 91; *mentions* = 286</font></p>
 
 <DIV ALIGN=CENTER><font size="4">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
 
@@ -109,11 +109,11 @@ if you dont want to do this via command line, consider a number of desktop clien
 +++
 
 ### Writing your code
-- Where possible look for **open source code** to work from
-- However, if wanting to **adapt** code from someone else, best not to. Write you're own and copy/paste the chunks you want
-- Have a **plan** for your code before you start writing. What do you want the code to achieve?
-- **Draw** plans before you write your code. Inputs and outputs?
-- Make **comments** in your code as write
+- Where possible look for open source code to work from |
+- However, if wanting to adapt code from someone else, best not to. Write you're own and copy/paste the chunks you want |
+- Have a plan for your code before you start writing. What do you want the code to achieve? |
+- Draw plans before you write your code. Inputs and outputs? |
+- Make comments in your code as write |
 
 Note:
 * there are formal design architectures you can follow (e.g., Unified Modelling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
@@ -180,12 +180,12 @@ else if <<PUBLISHING YOUR CODE>>:
 
 ### Software Citation Principles
 
-1. legitimate and citable research product |
-2. gives scholarly credit |
-3. citations should use unique identifiers |
-4. persistent unique identifiers (e.g., DOIs) |
-5. facilitate access to the software |
-6. specify the version |
+* legitimate and citable research product |
+* gives scholarly credit |
+* citations should use unique identifiers |
+* persistent unique identifiers (e.g., DOIs) |
+* facilitate access to the software |
+* specify the version |
 
 Note:
 1. considered a legitimate and citable product of research
@@ -264,6 +264,4 @@ git pull <REMOTENAME> <branchname>
 
 <p><font size="3">Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86</font></p>
 
-<p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management](github.com/paddytobias/research-software-management)</font></p>
-
-t0nnjfubb6q8hg0
+<p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management]("github.com/paddytobias/research-software-management")</font></p>
