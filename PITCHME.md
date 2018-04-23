@@ -49,7 +49,7 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 
 <p style="text-align:center"><font size="3">*articles* = 59; *mentions* = 286</font></p>
 
-<DIV ALIGN=CENTER>READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
+<DIV ALIGN=CENTER><font size="3">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
 
 Note:
 * from 91 randomly selected Biology articles published between 2000-2010
