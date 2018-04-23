@@ -31,7 +31,8 @@
 
 +++
 
-<iframe class="stretch" data-src="https://drive.google.com/file/d/1eV4lynq-GobM1bzAV8KtaD_b64UMU8Z0/view?usp=sharing"></frame>
+![github lifecycle](assets/image/github_lifecycle.png)
+
 +++
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
