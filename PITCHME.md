@@ -29,9 +29,6 @@
 - External engagement |
 - Co-authorship opportunities |
 
-+++
-
-![github lifecycle](assets/image/github_lifecycle.png)
 
 +++
 
