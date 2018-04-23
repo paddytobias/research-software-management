@@ -63,7 +63,7 @@ Things to consider:
 - Version control |
 - Managing contributions |
 - Develop documentation |
-- Issues register and project management |
+- Project management |
 - Licensing |
 
 +++
