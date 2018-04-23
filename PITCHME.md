@@ -143,7 +143,7 @@ Git has many ways to manage contributions:
 
 - Create a README.md file for every project |
 - Learn Markdown |
-- Consider user guides as well (e.g., for installing, use, examples) |
+- Consider developing user guides as well (e.g., for installing, use, examples) |
 
 TRY:[Atom](atom.io)
 
@@ -155,10 +155,10 @@ use Atom
 
 ### Issues/'To dos' register and Project management
 
-- Consider issues ~ 'To Dos'
-- See software development as a project
-- Allow team mates or public to register issues
-- Track the resolution of these issues
+- Consider issues ~ 'To Dos' |
+- See software development as a project |
+- Allow teammates or public to register issues |
+- Track the resolution of these issues |
 
 TRY:[Waffle.io](https://waffle.io)
 
@@ -180,12 +180,12 @@ else if <<PUBLISHING YOUR CODE>>:
 
 ### Software Citation Principles
 
-1. legitimate and citable research product
-2. gives scholarly credit
-3. citations should use unique identifiers
-4. persistent unique identifiers (e.g., DOIs)
-5. facilitate access to the software
-6. specify the version
+1. legitimate and citable research product |
+2. gives scholarly credit |
+3. citations should use unique identifiers |
+4. persistent unique identifiers (e.g., DOIs) |
+5. facilitate access to the software |
+6. specify the version |
 
 Note:
 1. considered a legitimate and citable product of research
