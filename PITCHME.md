@@ -15,9 +15,9 @@
 ---
 ## Software in Research: Context
 
-- Increasing support for research data in universities
-- Still little support for research software code
-- But software management tools on the rise in research
+- Increasing support for research data in universities |
+- Still little support for research software code |
+- But software management tools on the rise in research |
 
 
 ---
@@ -47,7 +47,7 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 
-<p style="text-align:centre">*articles* = 59; *mentions* = 286</p>
+<p style="text-align:center"><font size="3">*articles* = 59; *mentions* = 286</font></p>
 
 <DIV ALIGN=CENTER>READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</DIV>
 
