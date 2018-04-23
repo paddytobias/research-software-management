@@ -47,9 +47,9 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 |Cite user’s manual|6 (2%)|
 |Not even name|4 (1%)|
 
-<p style="text-align:center"><font size="3">*articles* = 59; *mentions* = 286</font></p>
+<p style="text-align:center"><font size="4">*articles* = 59; *mentions* = 286</font></p>
 
-<DIV ALIGN=CENTER><font size="3">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
+<DIV ALIGN=CENTER><font size="4">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
 
 Note:
 * from 91 randomly selected Biology articles published between 2000-2010
@@ -112,10 +112,7 @@ if you dont want to do this via command line, consider a number of desktop clien
 - Where possible look for **open source code** to work from
 - However, if wanting to **adapt** code from someone else, best not to. Write you're own and copy/paste the chunks you want
 - Have a **plan** for your code before you start writing. What do you want the code to achieve?
-- **Draw** plans before you write your code.
-  - What are your inputs and outputs?
-  - Repetitive calculations?
-  - Any conditionals?
+- **Draw** plans before you write your code. Inputs and outputs?
 - Make **comments** in your code as write
 
 Note:
