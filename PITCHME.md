@@ -85,6 +85,10 @@ Alternative code repositories:
 - BitBucket
 - SourceForge
 
++++
+
+![git lifecycle](assets/image/github_lifecycle.png)
+
 ---
 
 ```
