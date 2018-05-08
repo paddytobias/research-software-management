@@ -29,6 +29,7 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 ## Why more work could be done?
 
 - Poor understanding of management techniques |
+- Need to create standards: archive, index, share, discover and attribute |
 - Scientific reproducibility |
 - Engagement opportunities |
 
@@ -55,7 +56,7 @@ Introducing: `HasVersion`, `IsVersionOf`, `IsRequiredBy`, `Requires`
 ## Current movements
 ### Software metadata: CodeMeta Project
 
-... a joint project by several science and industry actors to create minimal metadata schemas for science software and code. 
+... a joint project by several science and industry actors to create minimal metadata schemas for science software and code.
 
 
 
