@@ -62,7 +62,7 @@ Note:
 * Software describes workflow and methods
 * Software has dependencies
 
-[Software vs Data](https://github.com/danielskatz/software-vs-data)
+[D Katz, Software vs Data](https://github.com/danielskatz/software-vs-data)
 
 +++
 
