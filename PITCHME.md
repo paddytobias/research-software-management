@@ -206,6 +206,8 @@ https://zenodo.org/record/826449#.Wt5zkBNL9E9
 +++
 ## Reference list
 
+<p><font size="5">ANDS 2018, [References to Software Description and citation]("https://docs.google.com/document/d/18bBKQCTYKUT8RtTQYvxnvDGEeq8UVhPN3fmK2g9M71c/edit")</font></p>
+
 <p><font size="3">GitHub, 2016 "Making your Code Citable", https://guides.github.com/activities/citable-code/</font></p>
 
 <p><font size="3">Howison, J, Bullard, J, "Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature", *Journal of the Assoc. for Information Science and Technology*, 67(9), 2137-2155, https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538</font></p>
@@ -217,4 +219,4 @@ https://zenodo.org/record/826449#.Wt5zkBNL9E9
 
 <p><font size="3">Smith, AM, Katz, DS, Niemeyer, KE, FORCE11 Software Citation Working Group, 2016,  "Software citation principles", *PeerJ Computer Science*, 2(86) https://doi.org/10.7717/peerj-cs.86</font></p>
 
-<p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management]("github.com/paddytobias/research-software-management")</font></p>
+<p><font size="5">Code for this presentation: [github.com/paddytobias/research-software-management]("github.com/paddytobias/research-software-management/eResearchCommittee")</font></p>
