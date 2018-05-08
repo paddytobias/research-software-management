@@ -5,19 +5,19 @@
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
 
-.reveal pre {
-  width: 100%;
-  box-shadow : none;
-}
+.reveal code {
+  font-family: monospace; 
+  font-size: 1.3em;
+  text-align: left; 
+  }
 
 .reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2;
-  max-height: 60vh !important;
-  opacity: 0.95;
-  border-radius: 10px;
-}
-
+  display: block;
+  padding: 5px;
+  overflow: auto;
+  max-height: 400px;
+  word-wrap: normal; }
+  
 .reveal .slides section .code-presenting-annotation {
   color: #43a4e0;
   background: white;
