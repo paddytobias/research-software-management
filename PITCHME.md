@@ -11,7 +11,9 @@ Software = `source code`
 
 `i.e., text file programs, creative pieces of work!`
 
-"if the specific software is important to the research outcome, for example if different software could produce different data or results, then the software is research software." - [CodeMeta](https://github.com/codemeta/codemeta-paper/blob/master/codemeta-paper.Rmd)
++++
+
+"... if the specific software is important to the research outcome, for example if different software could produce different data or results, then the software is research software."  [CodeMeta](https://github.com/codemeta/codemeta-paper/blob/master/codemeta-paper.Rmd)
 ---
 ## Context
 
@@ -48,18 +50,20 @@ Note:
 ---
 ## What more could be done?
 
-- Understanding of management techniques could be improved |
-- Need to create standards: archive, index, share, discover and attribute |
-- Need to standardise software metadata |
+- Improve understanding of management techniques |
+- Establish standard solutions: archive, index, share, discover and attribute |
+- Standardise software metadata |
 - Promote Scientific reproducibility |
 - Promote Engagement opportunities |
 
 +++
+
 ## Software and Data: what's the difference?
 * Software is active; data is (usually) static |
-* Software has versions |
+* Software has versions, more so than data |
 * Software describes workflow and methods |
 * Software more likely to have dependencies |
+* Software tends to need ongoing maintenance |
 
 [D Katz, Software vs Data](https://github.com/danielskatz/software-vs-data)
 
