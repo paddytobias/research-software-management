@@ -10,31 +10,57 @@
 ---
 - Software = `source code`
 
-  i.e., text file programs
+  i.e., text file programs, creative pieces of work!
 
 ---
 ## Context
 
-- Increasing support for research data in universities |
+- Increasing support for research data in universities and academia |
 - Still little support for research software code |
 - But software management tools on the rise in research |
-
-
----
-## Why manage your code?
-
-- Improving your workflow |
-- Coordinating group research |
-- Scientific reproducibility |
-- External engagement |
-- Co-authorship opportunities |
-
 
 +++
 
 ![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
 
 READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
+
+---
+## Why more work could be done?
+
+- Poor understanding of management techniques |
+- Scientific reproducibility |
+- Engagement opportunities |
+
++++
+## Software and Data: what's the difference?
+* Software is active; data is passive
+
++++
+
+## Current movements
+### Working groups
+* Force 11 Software Citation Implementation Group and [software citation principles](https://doi.org/10.7717/peerj-cs.86)
+* [RD-Alliance Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
+* ANDS Software citation group
+
++++
+## Current movements
+### Software metadata: DataCite
+
+[Metadata Schema 4.1](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) - [Example](http://schema.datacite.org/meta/kernel-4.1/example/datacite-example-software-v4.1.xml)
+Introducing: `HasVersion`, `IsVersionOf`, `IsRequiredBy`, `Requires`
+
++++
+## Current movements
+### Software metadata: CodeMeta Project
+
+... a joint project by several science and industry actors to create minimal metadata schemas for science software and code. 
+
+
+
+Note:
+* This release is backward compatible and introduces a number of schema and documentation (DataCite Metadata Working Group, 2017) enhancements to make software citation easier and clearer.  For example, the 4.1 documentation includes a special “pull-out” appendix to assist those using the schema to register software. Please read all about it here: https://blog.datacite.org/metadata-schema-4-1/.
 
 +++
 ### 2000-2010 Biology journal articles
@@ -68,8 +94,7 @@ Things to consider:
 
 +++
 
-## How to manage your code?
-
+## How to manage code?
 
 ### Git, GitHub, GitLab, Git-everything...
 
