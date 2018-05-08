@@ -12,6 +12,7 @@
 
   i.e., text file programs, creative pieces of work!
 
+"if the specific software is important to the research outcome, for example if different software could produce different data or results, then the software is research software." - [CodeMeta](https://github.com/codemeta/codemeta-paper/blob/master/codemeta-paper.Rmd)
 ---
 ## Context
 
@@ -25,45 +26,8 @@
 
 READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
 
----
-## Why more work could be done?
-
-- Poor understanding of management techniques |
-- Need to create standards: archive, index, share, discover and attribute |
-- Scientific reproducibility |
-- Engagement opportunities |
-
-+++
-## Software and Data: what's the difference?
-* Software is active; data is passive
-
 +++
 
-## Current movements
-### Working groups
-* Force 11 Software Citation Implementation Group and [software citation principles](https://doi.org/10.7717/peerj-cs.86)
-* [RD-Alliance Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
-* ANDS Software citation group
-
-+++
-## Current movements
-### Software metadata: DataCite
-
-[Metadata Schema 4.1](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) - [Example](http://schema.datacite.org/meta/kernel-4.1/example/datacite-example-software-v4.1.xml)
-Introducing: `HasVersion`, `IsVersionOf`, `IsRequiredBy`, `Requires`
-
-+++
-## Current movements
-### Software metadata: CodeMeta Project
-
-... a joint project by several science and industry actors to create minimal metadata schemas for science software and code.
-
-
-
-Note:
-* This release is backward compatible and introduces a number of schema and documentation (DataCite Metadata Working Group, 2017) enhancements to make software citation easier and clearer.  For example, the 4.1 documentation includes a special “pull-out” appendix to assist those using the schema to register software. Please read all about it here: https://blog.datacite.org/metadata-schema-4-1/.
-
-+++
 ### 2000-2010 Biology journal articles
 |Mention types|Count (%)|
 |--|--|--|
@@ -83,15 +47,74 @@ Note:
 * from 91 randomly selected Biology articles published between 2000-2010
 * 59 had a mention of software in some form or another
 
+---
+## What more could be done?
+
+- Understanding of management techniques could be improved |
+- Need to create standards: archive, index, share, discover and attribute |
+- Need to standardise software metadata |
+- Scientific reproducibility |
+- Engagement opportunities |
+
++++
+## Software and Data: what's the difference?
+* Software is active; data is (usually) static
+* Software describes workflow and methods
+* Software has dependencies
+
+[Software vs Data](https://github.com/danielskatz/software-vs-data)
+
 +++
 
-Things to consider:
-- Approaches to code writing |
-- Version control |
-- Managing contributions |
-- Develop documentation |
-- Project management |
-- Licensing |
+## Current movements
+### Working groups
+* Force 11 Software Citation Implementation Group and [software citation principles](https://doi.org/10.7717/peerj-cs.86)
+* [RD-Alliance Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
+* ANDS Software citation group
+
++++
+## Current movements
+### Software metadata: DataCite
+
+[Metadata Schema 4.1](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) - [Example](http://schema.datacite.org/meta/kernel-4.1/example/datacite-example-software-v4.1.xml)
+Introducing: `HasVersion`, `IsVersionOf`, `IsRequiredBy`, `Requires`
+
+Note:
+* This release is backward compatible and introduces a number of schema and documentation (DataCite Metadata Working Group, 2017) enhancements to make software citation easier and clearer.  For example, the 4.1 documentation includes a special “pull-out” appendix to assist those using the schema to register software. Please read all about it here: https://blog.datacite.org/metadata-schema-4-1/.
+
++++
+## Current movements
+### Software metadata: CodeMeta Project
+
+* A joint project by several science and industry actors to create minimal metadata schemas for science software and code.
+
+* ... not intended to be yet another standard, but rather a crosswalk that allows interoperability ... to exchange software metadata.
+
++++
+## Current movements
+### Software metadata: Software Heritage [[Under Development]]
+A persistent archive for all open source software, holding 83 million software projects, 4.5 billion source files.
+
+* *Heritage* - Software is an important part of human production -> collect, preserve, make accessible
+* *Science* - To guarantee scientific reproducibility we need to preserve it -> reproducibility
+* *Industry* - Software is present in all industrial processes and products -> provenance tracking
+
+If you have source code on GitHub, it's probably in there.
+
+Note:
+The project came about because software code is seen as being even more vulnerable to corruption and obsolescence than typical archival holdings like books and other media like video and film.
+
+
++++
+
+## Communities adopting/promoting software citation
+* ESIP Software and service citation (origin in NASA)|
+* Working Towards Sustainable Software For Science (WSSSPE) |
+* US Research Software Sustainability Institute (URSSI, NSF funded) |
+* [UK Software Sustainability Institute](https://www.software.ac.uk/)
+* [Journal of Open Source Software](http://joss.theoj.org/)
+
+
 
 +++
 
@@ -299,6 +322,9 @@ git pull <REMOTENAME> <branchname>
 <p><font size="3">GitHub, 2016 "Making your Code Citable", https://guides.github.com/activities/citable-code/</font></p>
 
 <p><font size="3">Howison, J, Bullard, J, "Software in the Scientific Literature: Problems with Seeing, Finding, and Using Software Mentioned in the Biology Literature", *Journal of the Assoc. for Information Science and Technology*, 67(9), 2137-2155, https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23538</font></p>
+
+<p><font size="3">Katz, D, "Software vs Data", *GitHub*, [https://doi.org/10.7287/peerj.preprints.2630v1](https://github.com/danielskatz/software-vs-data)</font></p>
+
 
 <p><font size="3">Perkel, J, "Democratic databases: science on GitHub", *Nature* 538, 127–128, October 6, 2016, doi:[10.1038/538127a](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)</font></p>
 
