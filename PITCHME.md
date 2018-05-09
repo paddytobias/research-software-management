@@ -19,13 +19,7 @@ Software = `source code`
 
 - Increasing support for research data in universities and academia |
 - Still little support for research software code |
-- But software and software management tools on the rise in research |
-
-+++
-
-![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
-
-READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
+- But software *and* software management tools on the rise in research |
 
 +++
 
@@ -43,12 +37,19 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 
 <DIV ALIGN=CENTER><font size="4">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
 
+
 Note:
 * from 91 randomly selected Biology articles published between 2000-2010
 * 59 had a mention of software in some form or another
 
++++
+
+![Perkel, J 2016](assets/image/nature_toolbox_github-influence_06.10.2016_WEB.png)
+
+READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias/research-software-management#/9/1)
+
 ---
-## What more could be done?
+## What more to do?
 
 - Improve understanding of management techniques |
 - Establish standard solutions: archive, index, share, discover and attribute |
@@ -69,8 +70,8 @@ Note:
 
 +++
 
-## Current movements
-### Working groups
+### Current movements
+## Working groups
 * Force 11 Software Citation Implementation Group and [software citation principles](https://doi.org/10.7717/peerj-cs.86)
 * [RD-Alliance Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
 * ANDS Software citation group
@@ -96,8 +97,8 @@ Note:
 
 +++
 
-## Other Current movements
-### DataCite
+### Other Current movements
+## DataCite
 
 [Metadata Schema 4.1](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) - [Example](http://schema.datacite.org/meta/kernel-4.1/example/datacite-example-software-v4.1.xml)
 
@@ -111,16 +112,16 @@ Note:
 * This release is backward compatible and introduces a number of schema and documentation (DataCite Metadata Working Group, 2017) enhancements to make software citation easier and clearer.  For example, the 4.1 documentation includes a special “pull-out” appendix to assist those using the schema to register software. Please read all about it here: https://blog.datacite.org/metadata-schema-4-1/.
 
 +++
-## Other Current movements
-### CodeMeta Project
+### Other Current movements
+## CodeMeta Project
 
 * A joint project by several science and industry actors to create minimal metadata schemas for science software and code.
 
 * ... not intended to be yet another standard, but rather a crosswalk that allows interoperability ... to exchange software metadata.
 
 +++
-## Other Current movements
-### Software Heritage [[Under Development]]
+### Other Current movements
+## Software Heritage [[Under Development]]
 A persistent archive for all open source software, holding 83 million software projects, 4.5 billion source files.
 
 * *Heritage* - Software is an important part of human production -> collect, preserve, make accessible
@@ -135,7 +136,7 @@ The project came about because software code is seen as being even more vulnerab
 
 +++
 
-## Communities adopting/promoting software citation
+## Communities promoting software citation
 * ESIP Software and service citation (origin in NASA)|
 * Working Towards Sustainable Software For Science (WSSSPE) |
 * US Research Software Sustainability Institute (URSSI, NSF funded) |
@@ -144,7 +145,7 @@ The project came about because software code is seen as being even more vulnerab
 * GeoScience Australia
 * CSIRO
 
-+++
+---
 
 ## How to manage code?
 ### Git, GitHub, GitLab, Git-everything...
