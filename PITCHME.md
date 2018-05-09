@@ -24,6 +24,8 @@ Software = `source code`
 +++
 
 ### 2000-2010 Biology journal articles
+<p style="text-align:center"><font size="4">*articles* = 91; *mentions* = 286</font></p>
+
 |Mention types|Count (%)|
 |--|--|--|
 |Cite s.w. publication|105 (37%)|
@@ -33,7 +35,6 @@ Software = `source code`
 |Cite s.w. URL|13 (5%)|
 |Cite user’s manual|6 (2%)|
 |No name|4 (1%)|
-<p style="text-align:center"><font size="4">*articles* = 91; *mentions* = 286</font></p>
 
 <DIV ALIGN=CENTER><font size="4">READ: [Software in the scientific literature]("https://gitpitch.com/paddytobias/research-software-management#/9/1")</font></DIV>
 
