@@ -12,15 +12,14 @@
 
   i.e., text file programs
 
-<!---
+---
 ## Context
 
 - Increasing support for research data in universities |
 - Still little support for research software code |
 - But software management tools on the rise in research |
-"""
 
---->
+---
 ## Why manage your code?
 
 - Improving your workflow |
