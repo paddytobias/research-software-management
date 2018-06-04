@@ -70,11 +70,10 @@ Things to consider:
 ## How to manage your code?
 
 
-### Git, GitHub, GitLab, Git-everything...
+### Git, GitHub, GitLab
 
 
 <img src="assets/image/git_logo.jpg" alt="Git" style="width: 370px;"/>
-
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
 [More options here...](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
@@ -86,6 +85,7 @@ Alternative code repositories:
 
 +++
 
+### Git-everything...
 ![git lifecycle](assets/image/github_lifecycle.png)
 
 Note:
