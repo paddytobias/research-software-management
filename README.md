@@ -9,6 +9,8 @@ It covers three parts:
 * what to do when you are collaborating on code
 * and things to think about when wanting to publish or share your code
 
+Presentation: https://gitpitch.com/paddytobias/research-software-management
+
 
 
 ## Reference list
