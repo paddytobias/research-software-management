@@ -20,7 +20,7 @@
 - But software management tools on the rise in research |
 """
 
--->
+--->
 ## Why manage your code?
 
 - Improving your workflow |
