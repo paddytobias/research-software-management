@@ -88,7 +88,7 @@ Alternative code repositories:
 +++
 
 ### Git-everything...
-<img src="assets/image/github_lifecycle.png" style="width: 500px;"/>
+<img src="assets/image/github_lifecycle.png" style="width: 700px;"/>
 
 Note:
 Project mngmnt
