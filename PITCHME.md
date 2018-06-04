@@ -12,13 +12,13 @@
 
   i.e., text file programs
 
----
+```---
 ## Context
 
 - Increasing support for research data in universities |
 - Still little support for research software code |
 - But software management tools on the rise in research |
-
+```
 
 ---
 ## Why manage your code?
@@ -108,7 +108,7 @@ if <<CODING BY/FOR YOURSELF>>:
 ```
 +++
 
-### Version control
+### Ready, set, Git!
 - Set version control up as the first thing you do |
 - Make regular commits |
 - Meaningfully describe major commits, not every commit |
@@ -122,7 +122,7 @@ if you dont want to do this via command line, consider a number of desktop clien
 
 +++
 
-### Writing your code
+### Git ready
 - Where possible look for open source code to work from |
 - However, if wanting to adapt code from someone else, best not to. Write you're own and copy/paste the chunks you want |
 - Have a plan for your code before you start writing. What do you want the code to achieve? |
@@ -144,7 +144,7 @@ else if <<COLLABORATING WITH OTHERS>>:
 ```
 
 +++
-### Managing contributions
+### Git a grip!
 Git has many ways to manage contributions:
 - only owners can make changes, but everyone else can recommend changes. i.e., "pull request" |
 - each change is identified and marked with a unique id, meaning that you can rollback to previous versions |
@@ -167,7 +167,7 @@ use Atom
 +++
 <img src="assets/image/waffle_logo.png" alt="waffle.io" style="height: 150px;" align="right"/>
 
-### Issues/'To dos' register and Project management
+### Git organised
 
 - Consider issues ~ 'To Dos' |
 - See software development as a project |
@@ -236,7 +236,7 @@ Note:
 
 ---
 
-## Git vocabulary
+## Git talking
 
 ```
 git push  <REMOTENAME> <BRANCHNAME>
@@ -253,7 +253,7 @@ git pull <REMOTENAME> <branchname>
 
 ---
 
-## Benefits
+## Git the benefits
 - Research Impact and Engagement |
   - engaging with end users |
   - tracking engagement |
