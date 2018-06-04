@@ -74,8 +74,10 @@ Things to consider:
 
 
 <img src="assets/image/git_logo.jpg" alt="Git" style="width: 370px;"/>
+
 <img src="assets/image/github_logo2.png" alt="GitHub" style="width: 370px;"/>
 <img src="assets/image/gitlab_logo.png" alt="GitHub" style="width: 180px;"/>
+
 [More options here...](https://software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 Note:
@@ -86,7 +88,7 @@ Alternative code repositories:
 +++
 
 ### Git-everything...
-![git lifecycle](assets/image/github_lifecycle.png)
+!<img src="assets/image/github_lifecycle.png" style="width: 500px;"/>
 
 Note:
 Project mngmnt
