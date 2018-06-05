@@ -125,10 +125,9 @@ if you dont want to do this via command line, consider a number of desktop clien
 
 ### Git ready
 - Where possible look for open source code to work from |
-- However, if wanting to adapt code from someone else, best not to. Write you're own and copy/paste the chunks you want |
+- However, if wanting to adapt code from someone else, proceed cautiously. Write you're own and copy/paste the chunks you want |
 - Have a plan for your code before you start writing. What do you want the code to achieve? |
-- Draw plans before you write your code. Inputs and outputs? |
-- Make comments in your code as write |
+- Make comments in your code as you write |
 
 Note:
 * there are formal design architectures you can follow (e.g., Unified Modelling Language), but you don't have to use/learn these. Just come up with a conceptual way to explain what you what your program.
@@ -146,7 +145,7 @@ else if <<COLLABORATING WITH OTHERS>>:
 
 +++
 ### Git a grip!
-Git has many ways to manage contributions:
+Git has solid ways to manage contributions:
 - only owners can make changes, but everyone else can recommend changes. i.e., "pull request" |
 - each change is identified and marked with a unique id, meaning that you can rollback to previous versions |
 - repos can be "forked", "branched", "cloned" and "merged", "upstream" and "downstream" |
@@ -230,7 +229,7 @@ Note:
 ![Code ocean](assets/image/code_ocean_CUP.png)(https://www.researchinformation.info/news/cambridge-university-press-partners-code-ocean)
 
 +++
-### Code Ocean
+### [Code Ocean](https://codeocean.com/)
 
 <iframe class="stretch" data-src="https://codeocean.com/"></iframe>
 
@@ -266,7 +265,7 @@ git pull <REMOTENAME> <branchname>
 ---
 ## Where to next?
 
-- Come to the [Version Control with Git](https://www.eventbrite.com.au/e/git-at-une-armidale-registration-45282864266) in two weeks: 12.30-4:30pm, **8 May**
+- [Git Cheatsheet](https://docs.google.com/document/d/1ISl1284mb63oYAaoaRUhFcSUsOtF8hXcMcWPfvv7Wak/edit?usp=sharing)
 
 +++
 ## Reference list
