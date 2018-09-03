@@ -19,7 +19,7 @@ Software = `source code`
 
 - Increasing support for research data in universities and academia |
 - Still little support for research software code |
-- But software *and* software management tools on the rise in research |
+- But software and software management tools on the rise in research |
 
 +++
 
