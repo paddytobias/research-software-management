@@ -125,15 +125,14 @@ Note:
 ## Software Heritage [[Under Development]]
 A persistent archive for all open source software, holding 83 million software projects, 4.5 billion source files.
 
-* *Heritage* - Software is an important part of human production -> collect, preserve, make accessible
-* *Science* - To guarantee scientific reproducibility we need to preserve it -> reproducibility
-* *Industry* - Software is present in all industrial processes and products -> provenance tracking
-
 If you have source code on GitHub, it's probably in there.
 
 Note:
 The project came about because software code is seen as being even more vulnerable to corruption and obsolescence than typical archival holdings like books and other media like video and film.
 
+* *Heritage* - Software is an important part of human production -> collect, preserve, make accessible
+* *Science* - To guarantee scientific reproducibility we need to preserve it -> reproducibility
+* *Industry* - Software is present in all industrial processes and products -> provenance tracking
 
 +++
 
@@ -185,7 +184,7 @@ https://zenodo.org/record/826449#.Wt5zkBNL9E9
 +++
 ### Code Ocean
 
-<iframe class="stretch" data-src="https://codeocean.com/"></iframe>
+[Code Ocean](https://codeocean.com/)
 
 ---
 ## Benefits
@@ -196,15 +195,15 @@ https://zenodo.org/record/826449#.Wt5zkBNL9E9
 - More recognition for NTROs |
 - Reproducible research and the new age of research |
 
-
 ---
 ## Where to next?
 
 - Intersect runs Git training at UNE |
 - Developing central support for software management |
-- Promoting a single repository at UNE |
 - Promoting software management skills |
-- supporting software outputs in the repository |
+- Considering a single repository at UNE |
+- Supporting software research outputs in the repository |
+
 +++
 ## Reference list
 
