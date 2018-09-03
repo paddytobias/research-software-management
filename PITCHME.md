@@ -58,7 +58,8 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 
 +++
 
-## Software and Data: what's the difference?
+## Software and Data
+### What's the difference?
 * Software is active; data is (usually) static |
 * Software has versions, more so than data |
 * Software describes workflow and methods |
@@ -69,8 +70,8 @@ READ: [Democratic databases: science on GitHub](https://gitpitch.com/paddytobias
 
 +++
 
-### Current movements
-## Working groups
+## Current movements
+### Working groups
 * Force 11 Software Citation Implementation Group and [software citation principles](https://doi.org/10.7717/peerj-cs.86)
 * [RD-Alliance Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
 * ANDS Software citation group
@@ -96,9 +97,8 @@ Note:
 
 +++
 
-### Other Current movements
-## DataCite
 
+### DataCite
 [Metadata Schema 4.1](https://schema.datacite.org/meta/kernel-4.1/doc/DataCite-MetadataKernel_v4.1.pdf) - [Example](http://schema.datacite.org/meta/kernel-4.1/example/datacite-example-software-v4.1.xml)
 
 Introducing:
@@ -111,16 +111,15 @@ Note:
 * This release is backward compatible and introduces a number of schema and documentation (DataCite Metadata Working Group, 2017) enhancements to make software citation easier and clearer.  For example, the 4.1 documentation includes a special “pull-out” appendix to assist those using the schema to register software. Please read all about it here: https://blog.datacite.org/metadata-schema-4-1/.
 
 +++
-### Other Current movements
-## CodeMeta Project
+### CodeMeta Project
 
 * A joint project by several science and industry actors to create minimal metadata schemas for science software and code.
 
 * ... not intended to be yet another standard, but rather a crosswalk that allows interoperability ... to exchange software metadata.
 
 +++
-### Other Current movements
-## Software Heritage [[Under Development]]
+
+### Software Heritage
 A persistent archive for all open source software, holding 83 million software projects, 4.5 billion source files.
 
 If you have source code on GitHub, it's probably in there.
@@ -135,9 +134,9 @@ The project came about because software code is seen as being even more vulnerab
 +++
 
 ## Communities promoting software citation
-* ESIP Software and service citation (origin in NASA)|
-* Working Towards Sustainable Software For Science (WSSSPE) |
-* US Research Software Sustainability Institute (URSSI, NSF funded) |
+* ESIP Software and service citation (origin in NASA)
+* Working Towards Sustainable Software For Science (WSSSPE) 
+* US Research Software Sustainability Institute (URSSI, NSF funded) 
 * [UK Software Sustainability Institute](https://www.software.ac.uk/)
 * [Journal of Open Source Software](http://joss.theoj.org/)
 * GeoScience Australia
