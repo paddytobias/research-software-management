@@ -7,9 +7,9 @@
 
 ---
 
-Software = `source code`
+## Software?
 
-`i.e., text file programs, creative pieces of work!`
+`text file programs, scripts, source code, creative pieces of work!`
 
 "... if the specific software is important to the research outcome, for example if different software could produce different data or results, then the software is research software."  [CodeMeta](https://github.com/codemeta/codemeta-paper/blob/master/codemeta-paper.Rmd)
 ---
