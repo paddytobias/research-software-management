@@ -159,19 +159,6 @@ Alternative code repositories:
 - BitBucket
 - SourceForge
 
-+++
-
-![git lifecycle](assets/image/github_lifecycle.png)
-
-Note:
-Project mngmnt
-https://github.com/paddytobias/surveying-with-qualtrics/issues
-https://waffle.io/paddytobias/surveying-with-qualtrics
-
-citation
-https://github.com/paddytobias/15census_timor_dataclean
-https://zenodo.org/record/826449#.Wt5zkBNL9E9
-
 
 +++
 ### Recent news: Reproducible research...
